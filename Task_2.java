@@ -1,10 +1,10 @@
 import java.util.Scanner;
-//Task_2 ATM interface for CodSoft
+//Task_2 student's result calculator for CodSoft
 public class Task_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Welcome to the Result Calculator!");
+        System.out.println("Welcome to the Student's result calculator!");
         System.out.println("-------------------------------");
 
         System.out.print("Enter the number of subjects: ");
