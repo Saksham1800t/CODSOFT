@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-
+//Task_1 number guessing game for CodSoft
 public class Task_1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
