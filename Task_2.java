@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Task_2 ATM interface for CodSoft
 public class Task_2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
