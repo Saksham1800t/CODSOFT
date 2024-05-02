@@ -5,4 +5,4 @@ This is number guesser game in which in we guess a number until that guessed num
 This is the calculator for student result of the school.
 
 # task_3
-This is the ATM interface
+This is the ATM interface.
